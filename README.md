@@ -1,3 +1,7 @@
-# IBM-Coursera
-
-The purpose of the project is to complete the assignment of coursera-IBM Getting start with git and github.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
